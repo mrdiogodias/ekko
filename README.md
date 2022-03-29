@@ -9,6 +9,6 @@ This is an open-source RISC-V soft-core microcontroller targeting the ZYBO FPGA 
 
 The architecture is presented in the following picture.
 
-[![EKKO](https://raw.githubusercontent.com/mrdiogodias/ekko/doc/figures/ekko_overview.png)](https://github.com/mrdiogodias/ekko)
+[![EKKO](https://github.com/mrdiogodias/ekko/blob/master/doc/figures/ekko_overview.png)](https://github.com/mrdiogodias/ekko)
 
 The SDK is available here: [EKKO SDK](https://github.com/mrdiogodias/ekko-sdk)
